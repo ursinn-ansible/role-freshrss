@@ -1,7 +1,9 @@
-# ansible-role-freshrss
+# Ansible Role - Freshrss
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ursinn/ansible-role-freshrss?logo=github&style=for-the-badge)](https://github.com/ursinn/ansible-role-freshrss/commits)
 [![License](https://img.shields.io/github/license/ursinn/ansible-role-freshrss?style=for-the-badge)](https://github.com/ursinn/ansible-role-freshrss/blob/main/LICENSE)
+
+Docker Image: https://docs.linuxserver.io/images/docker-freshrss
 
 ## License
 
