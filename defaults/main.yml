@@ -1,6 +1,8 @@
 ---
-app_freshrss_enabled: false
-app_freshrss_puid: '16704'
-app_freshrss_pgid: '16704'
-app_freshrss_tz: "Europe/Zurich"
-app_freshrss_dir: "/opt/app-freshrss"
+role_freshrss_image: 'lscr.io/linuxserver/freshrss'
+role_freshrss_container: 'freshrss'
+role_freshrss_puid: '1000'
+role_freshrss_pgid: '1000'
+role_freshrss_tz: 'Europe/Zurich'
+role_freshrss_dir: '/opt/app-freshrss'
+role_freshrss_network: 'app-network'
